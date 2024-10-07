@@ -1,0 +1,3 @@
+/Users/sofiakanukova/Desktop/OpenMP and MPI/Integral/cmake-build-debug/CMakeFiles/Integral.dir
+/Users/sofiakanukova/Desktop/OpenMP and MPI/Integral/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sofiakanukova/Desktop/OpenMP and MPI/Integral/cmake-build-debug/CMakeFiles/rebuild_cache.dir

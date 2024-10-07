@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_C_COMPILER=/opt/homebrew/opt/open-mpi/bin/mpicc -DCMAKE_CXX_COMPILER=/opt/homebrew/opt/open-mpi/bin/mpicxx -G Ninja -S "/Users/sofiakanukova/Desktop/OpenMP and MPI/Integral" -B "/Users/sofiakanukova/Desktop/OpenMP and MPI/Integral/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/sofiakanukova/Desktop/OpenMP and MPI/Integral/cmake-build-debug
